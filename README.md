@@ -1,59 +1,5 @@
-# Code2Video-Cases
-
 ## Comparison
 
-How Diffusion models perform on these videos?
-
-<!-- <p align="center">
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: center;">Learning Topic</th>
-      <th style="text-align: center;">Veo3</th>
-      <th style="text-align: center;">Wan2.2</th>
-      <th style="text-align: center;">Code2Video (Ours)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center; vertical-align: middle;"><strong>Hanoi Problem</strong></td>
-      <td style="text-align: center;">
-        <img src="comparison/veo/Hanoi.gif">
-      </td>
-      <td style="text-align: center;">
-        <img src="comparison/wan/Hanoi.gif">
-      </td>
-      <td style="text-align: center;">
-        <img src="comparison/code2video/Hanoi_4K_SpeedUp.gif">
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center; vertical-align: middle;"><strong>Large Language Model</strong></td>
-      <td style="text-align: center;">
-        <img src="comparison/veo/LLM.gif">
-      </td>
-      <td style="text-align: center;">
-        <img src="comparison/wan/LLM.gif">
-      </td>
-      <td style="text-align: center;">
-        <img src="comparison/code2video/LLM_speed.gif">
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center; vertical-align: middle;"><strong>Pure Fourier Series</strong></td>
-      <td style="text-align: center;">
-        <img src="comparison/veo/fourier.gif">
-      </td>
-      <td style="text-align: center;">
-        <img src="comparison/wan/fourier.gif">
-      </td>
-      <td style="text-align: center;">
-        <img src="comparison/code2video/fourier_speed.gif">
-      </td>
-    </tr>
-    </tbody>
-</table>
-</p> -->
 
 <p align="center">
 <table style="width: 90%; border-collapse: collapse; text-align: center; margin: auto;">
@@ -61,7 +7,7 @@ How Diffusion models perform on these videos?
     <tr>
       <th style="text-align: center; padding: 8px;">Learning Topic</th>
       <th style="text-align: center; padding: 8px;">Veo3</th>
-      <th style="text-align: center; padding: 8px;">Wan2.2</th>
+      <th style="text-align: center; padding: 8px;">Slides</th>
       <th style="text-align: center; padding: 8px;">Code2Video (Ours)</th>
     </tr>
   </thead>
@@ -69,35 +15,35 @@ How Diffusion models perform on these videos?
     <tr>
       <td style="text-align: center; vertical-align: middle; font-weight: bold;">Hanoi Problem</td>
       <td>
-        <div style="width: 320px; aspect-ratio: 16 / 9; overflow: hidden; margin: auto;">
-          <img src="comparison/veo/Hanoi.gif" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="comparison/veo/Hanoi.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
         </div>
       </td>
       <td>
-        <div style="width: 320px; aspect-ratio: 16 / 9; overflow: hidden; margin: auto;">
-          <img src="comparison/wan/Hanoi.gif" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="comparison/slides/hanoi.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
         </div>
       </td>
       <td>
-        <div style="width: 320px; aspect-ratio: 16 / 9; overflow: hidden; margin: auto;">
-          <img src="comparison/code2video/Hanoi_4K_SpeedUp.gif" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="comparison/code2video/Hanoi_4K_SpeedUp.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
         </div>
       </td>
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle; font-weight: bold;">Large Language Model</td>
       <td>
-        <div style="width: 320px; aspect-ratio: 16 / 9; overflow: hidden; margin: auto;">
+       <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
           <img src="comparison/veo/LLM.gif" style="width: 100%; height: 100%; object-fit: cover;">
         </div>
       </td>
       <td>
-        <div style="width: 320px; aspect-ratio: 16 / 9; overflow: hidden; margin: auto;">
-          <img src="comparison/wan/LLM.gif" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="comparison/slides/LLM.png" style="width: 100%; height: 100%; object-fit: cover;">
         </div>
       </td>
       <td>
-        <div style="width: 320px; aspect-ratio: 16 / 9; overflow: hidden; margin: auto;">
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
           <img src="comparison/code2video/LLM_speed.gif" style="width: 100%; height: 100%; object-fit: cover;">
         </div>
       </td>
@@ -105,17 +51,17 @@ How Diffusion models perform on these videos?
     <tr>
       <td style="text-align: center; vertical-align: middle; font-weight: bold;">Pure Fourier Series</td>
       <td>
-        <div style="width: 320px; aspect-ratio: 16 / 9; overflow: hidden; margin: auto;">
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
           <img src="comparison/veo/fourier.gif" style="width: 100%; height: 100%; object-fit: cover;">
         </div>
       </td>
       <td>
-        <div style="width: 320px; aspect-ratio: 16 / 9; overflow: hidden; margin: auto;">
-          <img src="comparison/wan/fourier.gif" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="comparison/slides/fourier.png" style="width: 100%; height: 100%; object-fit: cover;">
         </div>
       </td>
       <td>
-        <div style="width: 320px; aspect-ratio: 16 / 9; overflow: hidden; margin: auto;">
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
           <img src="comparison/code2video/fourier_speed.gif" style="width: 100%; height: 100%; object-fit: cover;">
         </div>
       </td>
@@ -123,3 +69,11 @@ How Diffusion models perform on these videos?
   </tbody>
 </table>
 </p>
+
+
+## Showcase of Code2Video
+
+1. **Hanoi Problem** (*Puzzle*)
+
+https://github.com/user-attachments/assets/7dcb129b-de95-411a-a053-8d42633ac2e8
+
