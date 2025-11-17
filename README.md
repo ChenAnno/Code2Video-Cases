@@ -75,55 +75,92 @@
 
 ## Showcase of Code2Video
 
-> **Neural Network Structure** (*Neural Networks*)
+<p align="center">
+<table style="width: 90%; border-collapse: collapse; text-align: center; margin: auto;">
+  <thead>
+    <tr>
+      <th style="text-align: center; padding: 6px;">Neural Network Structure (<i>Neural Networks</i>)</th>
+      <th style="text-align: center; padding: 6px;">History and Definition of π (<i>Calculus</i>)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="cases/01.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
+      <td>
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="cases/02.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
+    </tr>
+  </tbody>
 
-https://github.com/user-attachments/assets/b49234af-146d-4bb3-930f-f38ce5200dc4
+  <thead>
+    <tr>
+      <th style="text-align: center; padding: 6px;">Space-filling Curves (<i>Topology</i>)</th>
+      <th style="text-align: center; padding: 6px;">Exponential Growth and Logistic Growth (<i>Epidemic</i>)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="cases/03.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
+      <td>
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="cases/04.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
+    </tr>
+  </tbody>
 
-> **History and Definition of π** (*Calculus*)
+  <thead>
+    <tr>
+      <th style="text-align: center; padding: 6px;">Euler's Formula -> e^πi = -1 (<i>Calculus</i>)</th>
+      <th style="text-align: center; padding: 6px;">Pure Fourier Series (<i>Physics</i>)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="cases/05.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
+      <td>
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="cases/06.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
+    </tr>
+  </tbody>
 
-https://github.com/user-attachments/assets/d3396418-21f4-4340-a5f1-db741ea26065
-
-> **Space-filling Curves** (*Topology*)
-
-
-https://github.com/user-attachments/assets/d2b60288-8829-43e5-a280-19e2cbea0b2e
-
-
-> **Exponential Growth and Logistic Growth** (*Epidemic*)
-
-
-https://github.com/user-attachments/assets/23c2029b-fdfc-488b-be22-e66129bf3b86
-
-
-> **Euler's Formula -> e^πi = -1** (*Calculus*)
-
-
-https://github.com/user-attachments/assets/acaf9191-2cf6-41d2-9d26-f3293a7fd999
-
-
-> **Pure Fourier Series** (*Physics*)
-
-
-https://github.com/user-attachments/assets/a6625628-f4f0-4b96-94f3-bc52d1d6b8a1
-
-
-> **The Determinant** (*Linear Algebra*)
-
-
-https://github.com/user-attachments/assets/12c14d8e-7382-40b3-b677-a9f4ab1ac640
-
-
-> **Large Language Model** (*Computer Science*)
-
-
-https://github.com/user-attachments/assets/e8d95768-c8ce-4953-b65a-67ab080e24ef
-
-
-> **Intuitive Backpropagation** (*Computer Science*)
-
-
-https://github.com/user-attachments/assets/e0722980-1f82-43f4-8f9e-e4d58317f076
-
-
+  <thead>
+    <tr>
+      <th style="text-align: center; padding: 6px;">The Determinant (<i>Linear Algebra</i>)</th>
+      <th style="text-align: center; padding: 6px;">Large Language Model (<i>Computer Science</i>)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="cases/07.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
+      <td>
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="cases/08.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</p>
 
 
