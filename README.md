@@ -81,6 +81,7 @@
     <tr>
       <th style="text-align: center; padding: 6px;">Neural Network Structure (<i>Neural Networks</i>)</th>
       <th style="text-align: center; padding: 6px;">History and Definition of π (<i>Calculus</i>)</th>
+      <th style="text-align: center; padding: 6px;">Space-filling Curves (<i>Topology</i>)</th>
     </tr>
   </thead>
   <tbody>
@@ -95,38 +96,28 @@
           <img src="cases/02.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
         </div>
       </td>
-    </tr>
-  </tbody>
-
-  <thead>
-    <tr>
-      <th style="text-align: center; padding: 6px;">Space-filling Curves (<i>Topology</i>)</th>
-      <th style="text-align: center; padding: 6px;">Exponential Growth and Logistic Growth (<i>Epidemic</i>)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
       <td>
         <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
           <img src="cases/03.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
         </div>
       </td>
-      <td>
-        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
-          <img src="cases/04.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-        </div>
-      </td>
     </tr>
   </tbody>
 
   <thead>
     <tr>
+      <th style="text-align: center; padding: 6px;">Exponential Growth and Logistic Growth (<i>Epidemic</i>)</th>
       <th style="text-align: center; padding: 6px;">Euler's Formula -> e^πi = -1 (<i>Calculus</i>)</th>
       <th style="text-align: center; padding: 6px;">Pure Fourier Series (<i>Physics</i>)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="cases/04.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
       <td>
         <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
           <img src="cases/05.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
@@ -139,11 +130,12 @@
       </td>
     </tr>
   </tbody>
-
+  
   <thead>
     <tr>
       <th style="text-align: center; padding: 6px;">The Determinant (<i>Linear Algebra</i>)</th>
       <th style="text-align: center; padding: 6px;">Large Language Model (<i>Computer Science</i>)</th>
+      <th style="text-align: center; padding: 6px;">Intuitive BP(<i>Neural Networks</i>)</th>
     </tr>
   </thead>
   <tbody>
@@ -156,6 +148,11 @@
       <td>
         <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
           <img src="cases/08.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
+      <td>
+        <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
+          <img src="cases/06.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
         </div>
       </td>
     </tr>
