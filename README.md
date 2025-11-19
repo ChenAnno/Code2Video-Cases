@@ -152,7 +152,7 @@
       </td>
       <td>
         <div style="width: 320px; height: 180px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; margin: auto; overflow: hidden;">
-          <img src="cases/06.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+          <img src="cases/09.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;">
         </div>
       </td>
     </tr>
